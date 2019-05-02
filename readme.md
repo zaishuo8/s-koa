@@ -202,6 +202,11 @@ app.use(async (ctx, next) => {
    
 打个 tag , `git tag v0.2`
 
+## TODO LIST
+
+- ctx.request
+- ctx.response  
+- 以及 request 和 response 上的各种方法
 
 
 
