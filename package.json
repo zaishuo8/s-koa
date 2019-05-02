@@ -1,0 +1,19 @@
+{
+  "name": "s-koa",
+  "version": "1.0.0",
+  "description": "s-koa 是一个乞丐版的 koa，实现 ctx 部分功能和洋葱圈中间件，记录下自己的思路过程",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
